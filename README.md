@@ -1,0 +1,2 @@
+# GoogleTranslateProxy
+test
